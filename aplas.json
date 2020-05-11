@@ -9,14 +9,13 @@
       "description": "Down-sized empowering pricing structure",
       "categoryId": "services",
       "applicationSize": "small",
-      "status": "standard",
       "licensing_cost": "131",
       "vendor_phone": "+86 447 310 6567",
       "status_color": "#00FF00",
       "department": "Legal",
       "hostedtype": "Azure",
       "deployment_date": "16/12/08",
-      "investment_number": "28",
+      "investment_number": 28,
       "type": "InHouseDev",
       "sme_email": "Borg.McKinless@memento.net.au",
       "investment_24m": "587",
@@ -25,11 +24,11 @@
       "support_cost": "428",
       "vendor_contact_name": "Billy Chuter",
       "end_of_life": "16/5/19",
-      "months_to_renew_support": "6",
+      "months_to_renew_support": 6,
       "end_of_maintenance": "26/3/17",
       "integrations": [
         {
-          "assetId": "int-022",
+          "id": "int-022",
           "name": "INT-022",
           "shortName": null,
           "version": "5.01",
@@ -37,7 +36,6 @@
           "payload": "ASN Receipt Transactional Data",
           "targetApplicationId": "hyperlocal",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Ramsey Tindle",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -50,7 +48,7 @@
           "golive_date": "30/12/15"
         },
         {
-          "assetId": "int-216",
+          "id": "int-216",
           "name": "INT-216",
           "shortName": null,
           "version": "0.84",
@@ -58,7 +56,6 @@
           "payload": "Order Data Refresh",
           "targetApplicationId": "seemless",
           "categoryId": "cron",
-          "status": "standard",
           "sme_name": "Andie MacVanamy",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -71,7 +68,7 @@
           "golive_date": "9/10/13"
         },
         {
-          "assetId": "int-280",
+          "id": "int-280",
           "name": "INT-280",
           "shortName": null,
           "version": "0.5",
@@ -79,7 +76,6 @@
           "payload": "Debtor - Hotcard",
           "targetApplicationId": "content_cloud",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Dominique Catling",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -92,7 +88,7 @@
           "golive_date": "29/6/14"
         },
         {
-          "assetId": "int-029",
+          "id": "int-029",
           "name": "INT-029",
           "shortName": null,
           "version": "0.27",
@@ -100,7 +96,6 @@
           "payload": "Master Data Refresh",
           "targetApplicationId": "polarflex",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Flem Mungan",
           "status_color": "#FFFF13",
           "department": "Integration",
@@ -113,7 +108,7 @@
           "golive_date": "12/7/16"
         },
         {
-          "assetId": "int-128",
+          "id": "int-128",
           "name": "INT-128",
           "shortName": null,
           "version": "0.3.0",
@@ -121,7 +116,6 @@
           "payload": "Group (Season - Price Types)",
           "targetApplicationId": "content_cloud",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Alfy Greader",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -134,7 +128,7 @@
           "golive_date": "2/5/06"
         },
         {
-          "assetId": "int-385",
+          "id": "int-385",
           "name": "INT-385",
           "shortName": null,
           "version": "0.42",
@@ -142,7 +136,6 @@
           "payload": "Seasons",
           "targetApplicationId": "content_cloud",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gabriel Van Hault",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -155,7 +148,7 @@
           "golive_date": "4/10/16"
         },
         {
-          "assetId": "int-434",
+          "id": "int-434",
           "name": "INT-434",
           "shortName": null,
           "version": "4.1",
@@ -163,7 +156,6 @@
           "payload": "Catalogue Subsides / Royalties",
           "targetApplicationId": "seemless",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Lee Brelsford",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -176,7 +168,7 @@
           "golive_date": "5/7/14"
         },
         {
-          "assetId": "int-147",
+          "id": "int-147",
           "name": "INT-147",
           "shortName": null,
           "version": "8.93",
@@ -184,7 +176,6 @@
           "payload": "ASN Verify Transactional Data",
           "targetApplicationId": "tempsoft",
           "categoryId": "ftp",
-          "status": "standard",
           "sme_name": "Maridel Finlan",
           "status_color": "#00FF00",
           "department": "System Control",
