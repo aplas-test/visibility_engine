@@ -43,7 +43,8 @@
           "last_deployment_date": "15/2/15",
           "logical_server": "A2A",
           "sme_email": "rtindlem@memento.net.au",
-          "golive_date": "30/12/15"
+          "golive_date": "30/12/15",
+          "something": "123ffggf"
         },
         {
           "id": "int-216",
@@ -86,7 +87,6 @@
         {
           "id": "int-029",
           "name": "INT-029",
-          "shortName": null,
           "version": "0.27",
           "description": "In congue.",
           "payload": "Master Data Refresh",
