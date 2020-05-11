@@ -3,7 +3,6 @@
     {
       "id": "visibility_engine",
       "name": "Visibility Engine!",
-      "shortName": null,
       "version": "9.78",
       "vendor": "Microsoft",
       "description": "Down-sized empowering pricing structure",
@@ -30,7 +29,6 @@
         {
           "id": "int-022",
           "name": "INT-022",
-          "shortName": null,
           "version": "5.01",
           "description": "Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
           "payload": "ASN Receipt Transactional Data",
@@ -50,7 +48,6 @@
         {
           "id": "int-216",
           "name": "INT-216",
-          "shortName": null,
           "version": "0.84",
           "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.",
           "payload": "Order Data Refresh",
@@ -70,7 +67,6 @@
         {
           "id": "int-280",
           "name": "INT-280",
-          "shortName": null,
           "version": "0.5",
           "description": "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
           "payload": "Debtor - Hotcard",
@@ -110,7 +106,6 @@
         {
           "id": "int-128",
           "name": "INT-128",
-          "shortName": null,
           "version": "0.3.0",
           "description": "Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
           "payload": "Group (Season - Price Types)",
@@ -130,7 +125,6 @@
         {
           "id": "int-385",
           "name": "INT-385",
-          "shortName": null,
           "version": "0.42",
           "description": "Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
           "payload": "Seasons",
@@ -170,7 +164,6 @@
         {
           "id": "int-147",
           "name": "INT-147",
-          "shortName": null,
           "version": "8.93",
           "description": "Donec vitae nisi.",
           "payload": "ASN Verify Transactional Data",
