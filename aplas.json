@@ -2,7 +2,7 @@
   "applications": [
     {
       "id": "visibility_engine",
-      "name": "Visibility Engine!!!2234",
+      "name": "Visibility Engine",
       "version": "9.78",
       "vendor": "Microsoft",
       "description": "Down-sized empowering pricing structure",
@@ -23,7 +23,7 @@
       "vendor_email": "Billy.Chuter@Microsoft.com",
       "sme_name": "Borg McKinless",
       "months_to_renew_support": 6,
-      "sme_email2": "Borg.McKinless@memento.net.au",
+      "sme_email": "Borg.McKinless@memento.net.au",
       "vendor_phone": "+86 447 310 6567",
       "investment_number": 28,
       "integrations": [
