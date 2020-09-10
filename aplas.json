@@ -30,7 +30,7 @@
         {
           "id": "int-128",
           "name": "INT-128",
-          "version": "0.4.0",
+          "version": "0.5.0",
           "description": "Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
           "payload": "Group (Season - Price Types)",
           "targetApplicationId": "content_cloud",
